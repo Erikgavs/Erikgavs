@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚔️ In process of becoming a better pentester<br>🖥️ Cybersecurity | eJPTv2<br>🦾 Backend developer<br>🧠Python and Ruby
+⚔️ In process of becoming a better pentester<br>🖥️ Cybersecurity | eJPTv2<br>🦾 Backend developer<br>🧠 Python and Ruby
 
 
 ## 🌐 Socials:
