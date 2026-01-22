@@ -1,20 +1,167 @@
-# 💫 About Me:
-⚔️ In process of becoming a better pentester<br>🖥️ Cybersecurity | eJPTv2<br>🦾 Backend developer<br>🧠 Python and Ruby
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Erikgavs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Erikgavs&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Erikgavs&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Header animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=200&section=header&text=Erikgavs&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20|%20Pentester%20|%20Backend%20Developer&descAlignY=55&descSize=18"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Erikgavs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Breaking+systems+to+make+them+stronger;%F0%9F%92%80+eJPTv2+Certified+Pentester;%F0%9F%90%8D+Python+%26+Ruby+Developer;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Enthusiast" alt="Typing SVG" /></a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Erikgavs&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br/>
+
+<!-- Badges de perfil -->
+<img src="https://komarev.com/ghpvc/?username=Erikgavs&style=for-the-badge&color=red" alt="Profile Views"/>
+<a href="https://github.com/Erikgavs?tab=followers"><img src="https://img.shields.io/github/followers/Erikgavs?style=for-the-badge&color=red&labelColor=0d1117" alt="Followers"/></a>
+<a href="https://github.com/Erikgavs?tab=repositories"><img src="https://img.shields.io/badge/Repos-Public-red?style=for-the-badge&labelColor=0d1117" alt="Repos"/></a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Erikgavs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+class Pentester:
+    def __init__(self):
+        self.name = "Erik"
+        self.alias = "Erikgavs"
+        self.role = "Cybersecurity Specialist & Backend Developer"
+        self.certifications = ["eJPTv2"]
+        self.languages = ["Python", "Ruby", "Bash"]
+        self.interests = ["Penetration Testing", "CTF", "Red Team", "Web Exploitation"]
+
+    def current_focus(self):
+        return [
+            "Improving pentesting skills",
+            "Building security tools",
+            "Learning advanced exploitation techniques",
+            "Contributing to open source security projects"
+        ]
+
+    def motto(self):
+        return "I don't break systems to destroy them, I break them to make them stronger."
+
+me = Pentester()
+```
+
+<div align="center">
+
+| 🎯 Currently Working On | 🌱 Learning | 🤝 Looking to Collaborate |
+|:-----------------------:|:-----------:|:-------------------------:|
+| Security Research | OSCP Prep | Open Source Security Tools |
+| CTF Challenges | Advanced Exploitation | Pentesting Projects |
+| Backend Development | Malware Analysis | Red Team Operations |
+
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+### 🔴 Offensive Security & Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Frameworks & Databases
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Erikgavs&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Erikgavs github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikgavs&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erikgavs&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Erikgavs streak stats"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Erikgavs&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Erikgavs trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erikgavs&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Erikgavs Activity Graph"/>
+</div>
+
+---
+
+## 🎯 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Status | Year |
+|:-------------:|:------:|:----:|
+| 🏴‍☠️ eJPTv2 (eLearnSecurity Junior Penetration Tester) | ✅ Certified | 2024 |
+| 🎯 OSCP (Offensive Security Certified Professional) | 🔄 In Progress | - |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erikgavs)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💀 "The quieter you become, the more you can hear" 💀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=100&section=footer"/>
+
+</div>
+
