@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Breaking+systems+to+make+them+stronger;%F0%9F%92%80+eJPTv2+Certified+Pentester;%F0%9F%90%8D+Python+%26+Ruby+Developer;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Breaking+systems+to+make+them+stronger;%F0%9F%92%80+eJPTv2+Certified+Pentester;%F0%9F%90%8D+Python+%26+Rust+Developer;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Enthusiast" alt="Typing SVG" /></a>
 
 <br/><br/>
 
@@ -80,10 +80,6 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Erikgavs&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Erikgavs github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikgavs&layout=compact&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erikgavs&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Erikgavs streak stats"/>
 </div>
 
 ---
