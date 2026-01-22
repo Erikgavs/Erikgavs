@@ -3,7 +3,11 @@
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=200&section=header&text=Erikgavs&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20|%20Pentester%20|%20Backend%20Developer&descAlignY=55&descSize=18"/>
 
-<br/><br/>
+</div>
+
+<br/><br/><br/>
+
+<div align="center">
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Breaking+systems+to+make+them+stronger;%F0%9F%92%80+eJPTv2+Certified+Pentester;%F0%9F%90%8D+Python+%26+Ruby+Developer;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Enthusiast" alt="Typing SVG" /></a>
@@ -21,32 +25,21 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY2NqaGt1OXZxdWN5a2VqdnhocjNlMDJuN2p3OGRiYm1vMnU5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-class Pentester:
-    def __init__(self):
-        self.name = "Erik"
-        self.alias = "Erikgavs"
-        self.role = "Cybersecurity Specialist & Backend Developer"
-        self.certifications = ["eJPTv2"]
-        self.languages = ["Python", "Ruby", "Rust"]
-        self.interests = ["Penetration Testing", "CTF", "Red Team", "Web Exploitation"]
+<br/>
 
-    def current_focus(self):
-        return [
-            "Improving pentesting skills",
-            "Building security tools",
-            "Learning advanced exploitation techniques",
-            "Contributing to open source security projects"
-        ]
+🔐 **Pentester** apasionado por romper sistemas para hacerlos más seguros
 
-    def motto(self):
-        return "I don't break systems to destroy them, I break them to make them stronger."
+🏴‍☠️ **eJPTv2 Certified** - Siempre buscando nuevos retos
 
-me = Pentester()
-```
+💻 **Backend Developer** con Python, Ruby y Rust
+
+🎯 **CTF Player** - HackTheBox & TryHackMe enthusiast
+
+🔥 **Intereses:** Penetration Testing, Red Team, Web Exploitation
+
+<br clear="both"/>
 
 ---
 
@@ -91,18 +84,6 @@ me = Pentester()
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erikgavs&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Erikgavs streak stats"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ---
