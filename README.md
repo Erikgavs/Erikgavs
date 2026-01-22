@@ -5,7 +5,7 @@
 
 </div>
 
-<br/><br/><br/>
+<br/>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<!-- Badges de perfil -->
+<!-- Profile badges -->
 <img src="https://komarev.com/ghpvc/?username=Erikgavs&style=for-the-badge&color=red" alt="Profile Views"/>
 <a href="https://github.com/Erikgavs?tab=followers"><img src="https://img.shields.io/github/followers/Erikgavs?style=for-the-badge&color=red&labelColor=0d1117" alt="Followers"/></a>
 <a href="https://github.com/Erikgavs?tab=repositories"><img src="https://img.shields.io/badge/Repos-Public-red?style=for-the-badge&labelColor=0d1117" alt="Repos"/></a>
@@ -29,15 +29,15 @@
 
 <br/>
 
-🔐 **Pentester** apasionado por romper sistemas para hacerlos más seguros
+🔐 **Pentester** passionate about breaking systems to make them stronger
 
-🏴‍☠️ **eJPTv2 Certified** - Siempre buscando nuevos retos
+🏴‍☠️ **eJPTv2 Certified** - Always looking for new challenges
 
-💻 **Backend Developer** con Python, Ruby y Rust
+💻 **Backend Developer** with Python, Ruby and Rust
 
 🎯 **CTF Player** - HackTheBox & TryHackMe enthusiast
 
-🔥 **Intereses:** Penetration Testing, Red Team, Web Exploitation
+🔥 **Interests:** Penetration Testing, Red Team, Web Exploitation
 
 <br clear="both"/>
 
