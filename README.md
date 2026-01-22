@@ -39,20 +39,6 @@
 
 🔥 **Intereses:** Penetration Testing, Red Team, Web Exploitation
 
-<br/>
-
-```python
-class Erikgavs:
-    def __init__(self):
-        self.role = "Cybersecurity Specialist"
-        self.cert = "eJPTv2"
-        self.code = ["Python", "Ruby", "Rust"]
-        self.tools = ["Burp Suite", "Nmap", "Wireshark"]
-
-    def motto(self):
-        return "Hack the planet! 🌍"
-```
-
 <br clear="both"/>
 
 ---
