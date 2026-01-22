@@ -3,10 +3,12 @@
 <!-- Header animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=200&section=header&text=Erikgavs&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20|%20Pentester%20|%20Backend%20Developer&descAlignY=55&descSize=18"/>
 
+<br/><br/>
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%90+Breaking+systems+to+make+them+stronger;%F0%9F%92%80+eJPTv2+Certified+Pentester;%F0%9F%90%8D+Python+%26+Ruby+Developer;%F0%9F%9B%A1%EF%B8%8F+Offensive+Security+Enthusiast" alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
 <!-- Badges de perfil -->
 <img src="https://komarev.com/ghpvc/?username=Erikgavs&style=for-the-badge&color=red" alt="Profile Views"/>
@@ -29,7 +31,7 @@ class Pentester:
         self.alias = "Erikgavs"
         self.role = "Cybersecurity Specialist & Backend Developer"
         self.certifications = ["eJPTv2"]
-        self.languages = ["Python", "Ruby", "Bash"]
+        self.languages = ["Python", "Ruby", "Rust"]
         self.interests = ["Penetration Testing", "CTF", "Red Team", "Web Exploitation"]
 
     def current_focus(self):
@@ -46,16 +48,6 @@ class Pentester:
 me = Pentester()
 ```
 
-<div align="center">
-
-| 🎯 Currently Working On | 🌱 Learning | 🤝 Looking to Collaborate |
-|:-----------------------:|:-----------:|:-------------------------:|
-| Security Research | OSCP Prep | Open Source Security Tools |
-| CTF Challenges | Advanced Exploitation | Pentesting Projects |
-| Backend Development | Malware Analysis | Red Team Operations |
-
-</div>
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
@@ -64,7 +56,6 @@ me = Pentester()
 
 ### 🔴 Offensive Security & Tools
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
@@ -72,7 +63,7 @@ me = Pentester()
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -104,14 +95,6 @@ me = Pentester()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erikgavs&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Erikgavs trophies"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -128,19 +111,6 @@ me = Pentester()
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erikgavs&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" alt="Erikgavs Activity Graph"/>
-</div>
-
----
-
-## 🎯 Certifications & Achievements
-
-<div align="center">
-
-| Certification | Status | Year |
-|:-------------:|:------:|:----:|
-| 🏴‍☠️ eJPTv2 (eLearnSecurity Junior Penetration Tester) | ✅ Certified | 2024 |
-| 🎯 OSCP (Offensive Security Certified Professional) | 🔄 In Progress | - |
-
 </div>
 
 ---
@@ -164,4 +134,3 @@ me = Pentester()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff0000&height=100&section=footer"/>
 
 </div>
-
